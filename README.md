@@ -1,8 +1,8 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm a Freelance Developer</h1>
+<h1 align="center">Hi 👋, I'm a Univ Student & Freelance Developer</h1>
 <p align="center">
-  웹 크롤링 & 자동화 시스템을 개발하는 외주 개발자입니다.  
+  대학생 겸 외주 개발자입니다
 </p>
 
 ---
@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsu7202&layout=compact&theme=tokyonight" />
 
 ---
 
@@ -30,15 +32,42 @@
   - Python + pandas + openpyxl
   - 하루 수십 건의 반복 업무 자동화기능 제공
 
-- 📱 **Flutter 기반 관리자 앱**    
-  - Dart + Flutter  
+---
+
+### 🧠 Currently Learning
+
+- 🔹 RestAPI
+- 🔹 Flutter
+- 🔹 Docker & Containerization
+
+---
+
+### 🔗 Connect with Me
+
+<p>
+  <a href="mailto:coms1768@naver.com"><img src="https://img.shields.io/badge/Email-coms1768@naver.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://instagram.com/_____lsu_____"><img src="https://img.shields.io/badge/Instagram-@_____lsu_____-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+### 🤝 I’m Open To
+
+- Web scraping and automation scripts (Python, Selenium, etc.)
+- FrontEnd & Flutter app development
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lsu7202&show_icons=true&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=lsu7202&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
