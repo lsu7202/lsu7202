@@ -27,8 +27,7 @@
   - Python + Selenium + requests + bs4 
   - 데이터 자동 수집 및 Excel 정리 기능 포함
 
-- 🤖 **업무 자동화**  
-  특정 플랫폼에서 자동 견적 요청/응답 처리  
+- 🤖 **업무 자동화**   
   - Python + pandas + openpyxl
   - 하루 수십 건의 반복 업무 자동화기능 제공
 
