@@ -39,6 +39,7 @@
 - 🔹 RestAPI
 - 🔹 Flutter
 - 🔹 Docker & Containerization
+- 👀 ChatGPT api
 
 ---
 
