@@ -1,8 +1,7 @@
 <!-- README.md -->
 
-<h1 align="center">Hi 👋, I'm a Univ Student & Freelance Developer</h1>
 <p align="center">
-  대학생 겸 외주 개발자입니다
+  외주 개발자입니다
 </p>
 
 ---
