@@ -1,9 +1,5 @@
 <!-- README.md -->
 
-<p align="center">
-  외주 개발자입니다
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
