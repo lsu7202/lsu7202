@@ -46,7 +46,7 @@
 | 프로젝트 | 역할 · 기간 | 무엇을 했나 |
 |---|---|---|
 | **[빌탐정](https://github.com/lsu7202/billtamjung)** | 개인 · 2026.07 ~ | 서울 상업용 건물 60만 채의 스펙 · 실거래 · 임대를 분석하고 AI 어시스턴트가 DB 를 근거로 답하는 서비스. 지도 마커 수만 개를 캔버스로 그려 성능 회복, 토큰 만료 시 동시 401 을 재발급 하나로 모음, Playwright 로 화면값과 DB 값 대조 |
-| **[감사보고서 분산 수집](https://github.com/lsu7202/myScrapper)** | 외주 · 단독 | DART 외부감사보고서를 워커 여러 대로 나눠 받고 실패한 작업만 다시 도는 수집 시스템. GCP Compute Engine + Terraform 으로 중앙 1대 + 워커 10대 |
+| **[감사보고서 분산 수집](https://github.com/lsu7202/myScrapper)** | 외주 · 단독 | DART 에서 외부감사보고서를 제출한 기업을 걸러 대표자명까지 붙여 엑셀로 정리하는 시스템. 워커 여러 대로 나눠 받고 실패한 작업만 다시 돈다. GCP Compute Engine + Terraform 으로 중앙 1대 + 워커 10대 |
 | **[ClickClip](https://github.com/lsu7202/clickclip_mvp_2.0.0)** | 개인 · 2026.05 ~ 08 | 대본 하나로 장면 분할 · 자막 · TTS · 미디어를 채워 CapCut 초안으로 내보내는 쇼츠 제작 도구. CapCut 의 문서화되지 않은 draft JSON 을 골든 스켈레톤 복제로 생성 |
 
 ### Contact
