@@ -1,68 +1,32 @@
-<!-- README.md -->
+# 이승욱
 
----
+반복되는 일을 자동화하는 개발자입니다.
+사람이 손으로 하던 확인 · 수집 · 배포를 코드로 옮기고, 그 코드가 계속 돌아가게 만듭니다.
 
-### 🛠️ Tech Stack
+## 프로젝트
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-</p>
+**[빌탐정](https://github.com/lsu7202/billtamjung)** · 2026.07 ~ · 개인 프로젝트
+서울 상업용 건물 60만 채를 분석하는 부동산 AI 서비스. 기획부터 배포까지 단독.
+React · TypeScript · FastAPI · PostgreSQL/PostGIS · GCP Cloud Run
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsu7202&layout=compact&theme=tokyonight" />
+**[감사보고서 분산 수집](https://github.com/lsu7202/myScrapper)** · 외주
+DART 외부감사보고서를 워커 여러 대로 나눠 수집.
+Python · Selenium · GCP Compute Engine · Terraform
 
----
+**[ClickClip](https://github.com/lsu7202/clickclip_mvp_2.0.0)** · 2026.05 ~ 08
+대본을 장면으로 나누고 자막 · TTS · 미디어를 붙여 CapCut 초안으로 내보내는 쇼츠 제작 도구.
+React · Node · FastAPI · ffmpeg
 
-### 📁 Major Tasks
+## 다룬 문제
 
-- 🔍 **Crawler System**  
-  B2B 클라이언트를 위한 쇼핑몰 정보 크롤러 개발 및 웹페이지 데이터 크롤링 도구 제작 
-  - Python + Selenium + requests + bs4 
-  - 데이터 자동 수집 및 Excel 정리 기능 포함
+- 지도 마커 수만 개를 DOM 대신 캔버스 한 장에 그려 렌더링 성능 회복
+- 토큰 만료 때 동시에 터지는 401 을 진행 중인 재발급 하나로 모음
+- 잘려서 오는 SSE 조각을 버퍼에 모아 이어 붙임
+- 3D 라이브러리를 별도 청크로 떼어 첫 화면 584KB 감소
+- Playwright 로 화면값과 DB 값 대조, git diff 로 필요한 검사만 실행
 
-- 🤖 **업무 자동화**   
-  - Python + pandas + openpyxl
-  - 하루 수십 건의 반복 업무 자동화기능 제공
+## 스택
 
----
+TypeScript · React · Python · FastAPI · PostgreSQL · Docker · GCP · Terraform · Playwright
 
-### 🧠 Currently Learning
-
-- 🔹 RestAPI
-- 🔹 Flutter
-- 🔹 Docker & Containerization
-- 👀 ChatGPT api
-
----
-
-### 🔗 Connect with Me
-
-<p>
-  <a href="mailto:coms1768@naver.com"><img src="https://img.shields.io/badge/Email-coms1768@naver.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://instagram.com/_____lsu_____"><img src="https://img.shields.io/badge/Instagram-@_____lsu_____-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
-### 🤝 I’m Open To
-
-- Web scraping and automation scripts (Python, Selenium, etc.)
-- FrontEnd & Flutter app development
-
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lsu7202&show_icons=true&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=lsu7202&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
+coms1768@gmail.com
